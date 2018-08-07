@@ -23,11 +23,11 @@
         unableToLoadSDK:        'Unable to load SDK script for {0}. Please make sure that nothing blocks loading of social scripts in your browser. Some browser extentions (Avast, PrivDog, AdBlock etc.) can cause this issue. Turn them off and try again.',     
         unableToCreateButton:   'Unable to create the button ({0}). Please make sure that nothing blocks loading of social scripts in your browser. Some browser extentions (Avast, PrivDog, AdBlock etc.) can cause this issue. Turn them off and try again.',
         // default button labels
-        facebook_like:      'like us',
+        facebook_like:      'Me Gusta',
         facebook_share:     'share',
-        twitter_tweet:      'tweet',  
+        twitter_tweet:      'Twittear',  
         twitter_follow:     'follow us on twitter',  
-        google_plus:        '+1 us',  
+        google_plus:        '+1 Like',  
         google_share:       'share',
         linkedin_share:     'share'          
     };  
